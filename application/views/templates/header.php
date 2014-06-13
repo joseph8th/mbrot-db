@@ -28,7 +28,10 @@
               <a href="/">Home</a>
             </li>
             <li>
-              <a href="/index.php/mbrot">Choose Level</a>
+              <a href="<?= site_url('mbrot') ?>">Choose Level</a>
+            </li>
+            <li>
+              <a href="<?= site_url('about') ?>">About</a>
             </li>
           </ul>
         </div>

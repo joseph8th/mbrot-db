@@ -38,9 +38,12 @@
 |
 */
 
-$route['default_controller'] = 'pages/view';
+$route['mbrot/(:any)/(:any)'] = 'mbrot/tile/$1/$2';
+$route['mbrot/(:any)'] = 'mbrot/level/$1';
+$route['mbrot/level'] = 'mbrot/level';
+$route['mbrot'] = 'mbrot';
 $route['(:any)'] = 'pages/view/$1';
-
+$route['default_controller'] = 'pages/view';
 
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */

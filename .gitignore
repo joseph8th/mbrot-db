@@ -10,6 +10,8 @@ application/logs/*
 
 user_guide/
 
+nbproject/
+
 *~
 #*
 _*/

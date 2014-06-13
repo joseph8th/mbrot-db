@@ -64,6 +64,86 @@ $db['default']['swap_pre'] = '';
 $db['default']['autoinit'] = TRUE;
 $db['default']['stricton'] = FALSE;
 
+$db['dataL0']['hostname'] = 'sqlite:'.APPPATH.'db/dataL0.sql3';
+$db['dataL0']['username'] = '';
+$db['dataL0']['password'] = '';
+$db['dataL0']['database'] = '';
+$db['dataL0']['dbdriver'] = 'pdo';
+$db['dataL0']['dbprefix'] = '';
+$db['dataL0']['pconnect'] = TRUE;
+$db['dataL0']['db_debug'] = TRUE;
+$db['dataL0']['cache_on'] = FALSE;
+$db['dataL0']['cachedir'] = '';
+$db['dataL0']['char_set'] = 'utf8';
+$db['dataL0']['dbcollat'] = 'utf8_general_ci';
+$db['dataL0']['swap_pre'] = '';
+$db['dataL0']['autoinit'] = TRUE;
+$db['dataL0']['stricton'] = FALSE;
+
+$db['dataL1']['hostname'] = 'sqlite:'.APPPATH.'db/dataL1.sql3';
+$db['dataL1']['username'] = '';
+$db['dataL1']['password'] = '';
+$db['dataL1']['database'] = '';
+$db['dataL1']['dbdriver'] = 'pdo';
+$db['dataL1']['dbprefix'] = '';
+$db['dataL1']['pconnect'] = TRUE;
+$db['dataL1']['db_debug'] = TRUE;
+$db['dataL1']['cache_on'] = FALSE;
+$db['dataL1']['cachedir'] = '';
+$db['dataL1']['char_set'] = 'utf8';
+$db['dataL1']['dbcollat'] = 'utf8_general_ci';
+$db['dataL1']['swap_pre'] = '';
+$db['dataL1']['autoinit'] = TRUE;
+$db['dataL1']['stricton'] = FALSE;
+
+$db['dataL2']['hostname'] = 'sqlite:'.APPPATH.'db/dataL2.sql3';
+$db['dataL2']['username'] = '';
+$db['dataL2']['password'] = '';
+$db['dataL2']['database'] = '';
+$db['dataL2']['dbdriver'] = 'pdo';
+$db['dataL2']['dbprefix'] = '';
+$db['dataL2']['pconnect'] = TRUE;
+$db['dataL2']['db_debug'] = TRUE;
+$db['dataL2']['cache_on'] = FALSE;
+$db['dataL2']['cachedir'] = '';
+$db['dataL2']['char_set'] = 'utf8';
+$db['dataL2']['dbcollat'] = 'utf8_general_ci';
+$db['dataL2']['swap_pre'] = '';
+$db['dataL2']['autoinit'] = TRUE;
+$db['dataL2']['stricton'] = FALSE;
+
+$db['dataL3']['hostname'] = 'sqlite:'.APPPATH.'db/dataL3.sql3';
+$db['dataL3']['username'] = '';
+$db['dataL3']['password'] = '';
+$db['dataL3']['database'] = '';
+$db['dataL3']['dbdriver'] = 'pdo';
+$db['dataL3']['dbprefix'] = '';
+$db['dataL3']['pconnect'] = TRUE;
+$db['dataL3']['db_debug'] = TRUE;
+$db['dataL3']['cache_on'] = FALSE;
+$db['dataL3']['cachedir'] = '';
+$db['dataL3']['char_set'] = 'utf8';
+$db['dataL3']['dbcollat'] = 'utf8_general_ci';
+$db['dataL3']['swap_pre'] = '';
+$db['dataL3']['autoinit'] = TRUE;
+$db['dataL3']['stricton'] = FALSE;
+
+$db['dataL4']['hostname'] = 'sqlite:'.APPPATH.'db/dataL4.sql3';
+$db['dataL4']['username'] = '';
+$db['dataL4']['password'] = '';
+$db['dataL4']['database'] = '';
+$db['dataL4']['dbdriver'] = 'pdo';
+$db['dataL4']['dbprefix'] = '';
+$db['dataL4']['pconnect'] = TRUE;
+$db['dataL4']['db_debug'] = TRUE;
+$db['dataL4']['cache_on'] = FALSE;
+$db['dataL4']['cachedir'] = '';
+$db['dataL4']['char_set'] = 'utf8';
+$db['dataL4']['dbcollat'] = 'utf8_general_ci';
+$db['dataL4']['swap_pre'] = '';
+$db['dataL4']['autoinit'] = TRUE;
+$db['dataL4']['stricton'] = FALSE;
+
 
 /* End of file database.php */
 /* Location: ./application/config/database.php */

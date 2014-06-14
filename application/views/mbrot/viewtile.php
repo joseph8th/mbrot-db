@@ -44,5 +44,7 @@
 
 <img src="/custom/tileimage.php" style="border: 1px solid black;">
 
+<!-- ?php include "custom/dumptile.php"; ? -->
+
 <!-- <canvas id="tile" width="256" height="256"></canvas>
 <button type="button" onclick="draw()">Draw Tile</button> -->
